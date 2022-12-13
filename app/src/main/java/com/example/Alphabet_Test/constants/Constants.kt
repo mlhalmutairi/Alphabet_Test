@@ -1,4 +1,4 @@
-package com.example.wordsapp.constants
+package com.example.Alphabet_Test.constants
 
 class Constants {
 

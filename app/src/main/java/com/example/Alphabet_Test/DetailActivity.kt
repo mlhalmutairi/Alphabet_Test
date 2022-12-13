@@ -13,14 +13,14 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.wordsapp
+package com.example.Alphabet_Test
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.wordsapp.constants.Constants
-import com.example.wordsapp.databinding.ActivityDetailBinding
+import com.example.Alphabet_Test.constants.Constants
+import com.example.Alphabet_Test.databinding.ActivityDetailBinding
 
 
 class DetailActivity : AppCompatActivity() {
